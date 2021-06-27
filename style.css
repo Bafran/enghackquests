@@ -44,6 +44,13 @@
     width:auto;
 }
 
+#goosesunglassesimage{
+    max-height:500px;
+    max-width:250px;
+    left: 0px;
+    height:auto;
+    width:auto
+}
 #githubimage{
     max-height:50px;
     max-width:50px;
@@ -88,4 +95,20 @@
     max-width:100px;
     height:auto;
     width:auto;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
 }
