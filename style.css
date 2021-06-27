@@ -75,6 +75,26 @@
     background-color: var(--primary-color);
     font-family: "Tahoma", Times, serif;
     font-size: 28px;
+
+}
+
+#bodycolour2 {
+    background-color: var(--really-light-color);
+    font-family: "Tahoma", Times, serif;
+    font-size: 28px;
+}
+
+#paragraphcolour {
+    background-color: var(--primary-color);
+    font-family: "Tahoma", Times, serif;
+    font-size: 20px;
+}
+
+#developersimage{
+    max-height:100px;
+    max-width:100px;
+    height:auto;
+    width:auto;
 }
 
 a:link {
