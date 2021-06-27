@@ -33,6 +33,39 @@
     color: white;
 }
 
-#primaryyellow {
+#darkeryellow {
+    background-color: var(--dark-waterloo-color);
+}
+
+#gooseimage{
+    max-height:500px;
+    max-width:500px;
+    height:auto;
+    width:auto;
+}
+
+#githubimage{
+    max-height:50px;
+    max-width:50px;
+    height:auto;
+    width:auto;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#blackwhite {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#bodycolour {
     background-color: var(--primary-color);
+    font-family: "Tahoma", Times, serif;
+    font-size: 28px;
 }
