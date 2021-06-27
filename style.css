@@ -69,3 +69,21 @@
     font-family: "Tahoma", Times, serif;
     font-size: 28px;
 }
+
+#reallylight {
+    background-color: var(--really-light-color);
+    font-family: "Tahoma", Times, serif;
+    /* font-size: 28px; */
+}
+
+#maingoose {
+    top: 100px;
+    height: 600px;
+    width: 700px;
+  }
+  
+  .rectangle {
+    height: 50px;
+    width: 100px;
+    background-color: #123;
+  }
