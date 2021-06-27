@@ -44,6 +44,13 @@
     width:auto;
 }
 
+#goosesunglassesimage{
+    max-height:1000px;
+    max-width:1000px;
+    left: 0px;
+    height:auto;
+    width:auto
+}
 #githubimage{
     max-height:50px;
     max-width:50px;
@@ -68,6 +75,7 @@
     background-color: var(--primary-color);
     font-family: "Tahoma", Times, serif;
     font-size: 28px;
+
 }
 
 #reallylight {
@@ -87,3 +95,41 @@
     width: 100px;
     background-color: #123;
   }
+=======
+
+}
+
+#bodycolour2 {
+    background-color: var(--really-light-color);
+    font-family: "Tahoma", Times, serif;
+    font-size: 28px;
+}
+
+#paragraphcolour {
+    background-color: var(--primary-color);
+    font-family: "Tahoma", Times, serif;
+    font-size: 20px;
+}
+
+#developersimage{
+    max-height:100px;
+    max-width:100px;
+    height:auto;
+    width:auto;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
